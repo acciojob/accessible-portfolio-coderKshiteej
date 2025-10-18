@@ -1,2 +1,35 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #2a7ae2;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 15px;
+}
+
+img {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+p {
+  margin-top: 20px;
+}
+
+ul {
+  margin-top: 20px;
+}
